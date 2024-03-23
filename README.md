@@ -2,8 +2,8 @@
 
 Computer Math student focus in robotics, machine learning, and computer vision. 
 
--🔭 I’m currently working on my profesional practices at Cimat.
--🌱 I’m currently learning pytorch.
+- 🔭 I’m currently working on my profesional practices at Cimat.
+- 🌱 I’m currently learning pytorch.
 
 
 <!--
