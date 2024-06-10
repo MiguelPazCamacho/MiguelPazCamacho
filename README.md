@@ -1,6 +1,6 @@
 ### Hi, I am Miguel Angel Paz Camacho👋
 
-Computer Math student focus in robotics, machine learning, and computer vision. 
+Computer Math student focus in robotics, machine learning, computer vision and Natural language processing. 
 
 - 🔭 I’m currently working on my profesional practices at Cimat.
 - 🌱 I’m currently learning pytorch.
