@@ -1,9 +1,11 @@
 ### Hi, I am Miguel Angel Paz Camacho👋
 
-Computer Math student focus in robotics, machine learning, computer vision and Natural language processing. 
+I'm studying a Master's Degree in Computer Science at CIMAT.
+My research interests include **Robotics**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**.
 
-- 🔭 I’m currently working on my profesional practices at Cimat.
-- 🌱 I’m currently learning pytorch.
+- 🔭 I’m currently working on self-harm detection using a Reddit dataset.
+- 👯 I’m looking for an internship or research summer in the areas of Robotics or Machine Learning.
+- 📫 How to reach me: miguel.paz@cimat.mx
 
 
 <!--
